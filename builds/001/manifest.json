@@ -1,0 +1,16 @@
+{
+  "name": "Oreo",
+  "version": "0.0.2",
+  "description": "Lead the Jet-Packed Kid through an amazing adventure crossing precariously designed levels keeping both the eyes on the fuel meter.",
+	"app" : {
+	"launch" : {
+	"local_path" : "Oreo.html"
+		}
+	},
+  "icons": {
+	"16" : "Icon.png",
+    "48" : "Oreo48.png",
+    "128" : "oreo128.png"
+  },
+  "offline_enabled": true
+}
